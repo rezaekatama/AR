@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 5efc46af849fba8499d2008ed2217ec2
+timeCreated: 1500101501
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bonnet_ok
+    100004: boot_ok
+    100006: Bump_front
+    100008: bump_rear_
+    100010: Chassis
+    100012: door_lf_ok
+    100014: door_rf_ok
+    100016: extra
+    100018: F__1_
+    100020: Frein
+    100022: GLass__1_
+    100024: H__1_
+    100026: Line01
+    100028: Line02
+    100030: M__40_
+    100032: P__9_
+    100034: PF_4___Chr
+    100036: Wheel__1_0
+    100038: Wheel__1_02
+    100040: Wheel__1_03
+    100042: Wheel__1_1
+    100044: windscreen
+    400000: //RootNode
+    400002: bonnet_ok
+    400004: boot_ok
+    400006: Bump_front
+    400008: bump_rear_
+    400010: Chassis
+    400012: door_lf_ok
+    400014: door_rf_ok
+    400016: extra
+    400018: F__1_
+    400020: Frein
+    400022: GLass__1_
+    400024: H__1_
+    400026: Line01
+    400028: Line02
+    400030: M__40_
+    400032: P__9_
+    400034: PF_4___Chr
+    400036: Wheel__1_0
+    400038: Wheel__1_02
+    400040: Wheel__1_03
+    400042: Wheel__1_1
+    400044: windscreen
+    2300000: bonnet_ok
+    2300002: boot_ok
+    2300004: Bump_front
+    2300006: bump_rear_
+    2300008: Chassis
+    2300010: door_lf_ok
+    2300012: door_rf_ok
+    2300014: extra
+    2300016: F__1_
+    2300018: Frein
+    2300020: GLass__1_
+    2300022: H__1_
+    2300024: Line01
+    2300026: Line02
+    2300028: M__40_
+    2300030: P__9_
+    2300032: PF_4___Chr
+    2300034: Wheel__1_0
+    2300036: Wheel__1_02
+    2300038: Wheel__1_03
+    2300040: Wheel__1_1
+    2300042: windscreen
+    3300000: bonnet_ok
+    3300002: boot_ok
+    3300004: Bump_front
+    3300006: bump_rear_
+    3300008: Chassis
+    3300010: door_lf_ok
+    3300012: door_rf_ok
+    3300014: extra
+    3300016: F__1_
+    3300018: Frein
+    3300020: GLass__1_
+    3300022: H__1_
+    3300024: Line01
+    3300026: Line02
+    3300028: M__40_
+    3300030: P__9_
+    3300032: PF_4___Chr
+    3300034: Wheel__1_0
+    3300036: Wheel__1_02
+    3300038: Wheel__1_03
+    3300040: Wheel__1_1
+    3300042: windscreen
+    4300000: door_lf_ok
+    4300002: Line01
+    4300004: door_rf_ok
+    4300006: Line02
+    4300008: Bump_front
+    4300010: bump_rear_
+    4300012: boot_ok
+    4300014: Wheel__1_0
+    4300016: bonnet_ok
+    4300018: extra
+    4300020: Frein
+    4300022: PF_4___Chr
+    4300024: M__40_
+    4300026: H__1_
+    4300028: F__1_
+    4300030: P__9_
+    4300032: GLass__1_
+    4300034: Chassis
+    4300036: windscreen
+    4300038: Wheel__1_1
+    4300040: Wheel__1_02
+    4300042: Wheel__1_03
+    6400000: bonnet_ok
+    6400002: boot_ok
+    6400004: Bump_front
+    6400006: bump_rear_
+    6400008: Chassis
+    6400010: door_lf_ok
+    6400012: door_rf_ok
+    6400014: extra
+    6400016: F__1_
+    6400018: Frein
+    6400020: GLass__1_
+    6400022: H__1_
+    6400024: Line01
+    6400026: Line02
+    6400028: M__40_
+    6400030: P__9_
+    6400032: PF_4___Chr
+    6400034: Wheel__1_0
+    6400036: Wheel__1_02
+    6400038: Wheel__1_03
+    6400040: Wheel__1_1
+    6400042: windscreen
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.001
+    meshCompression: 2
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
